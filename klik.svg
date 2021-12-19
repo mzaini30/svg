@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg">
+  <!-- A link around a shape -->
+  <!-- <a href="/docs/Web/SVG/Element/circle">
+    <circle cx="50" cy="40" r="35" />
+  </a> -->
+  <!-- A link around a text -->
+  <a href="https://mainkode.my.id">
+    <text x="40" y="15" text-anchor="middle">
+      Main Kode
+    </text>
+  </a>
+</svg>
